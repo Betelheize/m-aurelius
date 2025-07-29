@@ -1,2 +1,0 @@
-# m-aurelius
-meditations
